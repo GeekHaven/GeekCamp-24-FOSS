@@ -1,5 +1,9 @@
 Susithra
+<<<<<<< HEAD
 she is full of enthusiasm
 she is hardworking
 she sleeps a lot 
+=======
+She sleeps a lot
+>>>>>>> feature
 always on phone
