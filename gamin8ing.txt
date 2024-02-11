@@ -1,0 +1,8 @@
+Samay Jain
+<<<<<<< HEAD
+1. clears my doubt and we always have a healthy discussion which leads to learning something new
+2. has knowledge about almost every topic
+=======
+1. Smarter than me 🤐😓
+2. always finds a new name to call me out (which btw is funny sometimes, lol)
+>>>>>>> feature
