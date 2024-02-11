@@ -1,1 +1,1 @@
-Ans 1. Stranger thnings/TBBT
+Ans 1. A scifi with emotions captured beautifully/comedy about nerds, haha
